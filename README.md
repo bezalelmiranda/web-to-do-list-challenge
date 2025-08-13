@@ -28,8 +28,8 @@
 
 - **Protótipo no Figma:** [Clique aqui para visualizar](https://www.figma.com/design/0n0zDN7zbzhRbaEO74Xesx/ToDo-List-%E2%80%A2-Desafio-React/duplicate?node-id=56-96&p=f)  
 <p align="center">
-  <img src="/empty-list.png" alt="Lista de tarefas vazia" width="45%" style="margin-right: 10px;"/>
-  <img src="/task-list.png" alt="Lista de tarefas com itens" width="45%"/>
+  <img src="./public/empty-list.png" alt="Lista de tarefas vazia" width="45%" style="margin-right: 10px;"/>
+  <img src="./public/task-list.png" alt="Lista de tarefas com itens" width="45%"/>
 </p>
 
 ---
@@ -94,4 +94,3 @@ src/
 
 ## Créditos
 Idealizado por: **Rocketseat**
-# web-to-do-list-challenge
