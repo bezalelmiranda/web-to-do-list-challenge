@@ -43,6 +43,7 @@
 ---
 
 ### **Clonando o repositório**
+
 ```bash
 git clone https://github.com/bezalelmiranda/web-to-do-list-challenge.git
 cd to-do-list
